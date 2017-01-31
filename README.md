@@ -1,4 +1,4 @@
-# Eye Protector
+# Auge - The Eye Protector
 This little program helps in preventing eyestrain by reminding you to look at an object 20 feet away for 20 seconds, after every 20 minutes (according to 20-20-20 rule), if your work involves looking at computer screen for long hours.
 
 ## Working
