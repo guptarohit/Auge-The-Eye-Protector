@@ -8,7 +8,7 @@ This program runs in the background and after every 20 minutes an overlay will b
 >Source : [Discovericl blog](https://us.discovericl.com/blog/the-20-20-20-rule-preventing-digital-eye-strain), [20-20-20 rule](https://opto.ca/health-library/the-20-20-20-rule)
 
 ## Installation
-You can download it for your OS from here.
+You can download it for windows OS from [here](https://raw.githubusercontent.com/guptarohit/Auge-Eye-Protector/master/Auge.exe).
 
 ## License
 See Licence File [here](https://github.com/guptarohit/eye-protector/blob/master/LICENSE).<br>Feel free to make PR & make it better.
